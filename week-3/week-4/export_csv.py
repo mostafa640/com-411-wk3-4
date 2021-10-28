@@ -10,5 +10,5 @@ def export(file_path, num_bots):
     print("done!")
 def run():
     export("exported_bots.cvs", 2)
-if __name__ == "__main__":
+if __name__ == "__main__":Turn right
   run()
