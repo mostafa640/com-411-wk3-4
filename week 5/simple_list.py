@@ -1,6 +1,6 @@
 def directions():
-    directions = ["Move forwade", "Move back ward", "Turn left", "Turn right"]
-    return directions
+    direction = ["Move forwade", "Move back ward", "Turn left", "Turn right"]
+    return direction
 def run():
     print(directions())
 
